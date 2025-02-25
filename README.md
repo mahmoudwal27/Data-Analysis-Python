@@ -1,4 +1,4 @@
-# 📦 E-Commerce Data Analysis  
+# E-Commerce Data Analysis  
 
 This project analyzes an **E-Commerce dataset** using **Python (Pandas, Plotly)** to perform **data cleaning, exploratory analysis, and visualization**.  
 
